@@ -24,7 +24,7 @@ Preparation
   - AWS Well-Architected Framework: https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
   - Architecting for the cloud best practices: https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 - AWS Architecture Center: https://aws.amazon.com/architecture/
-- Recomended traing courses by Amazon:
+- Recomended training courses by Amazon:
   - AWS Technical Essentials: 
     - Home: https://aws.amazon.com/training/course-descriptions/essentials/
     - Duration: 1 day
