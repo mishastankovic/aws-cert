@@ -24,6 +24,7 @@ Preparation
   - AWS Well-Architected Framework: https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
   - Architecting for the cloud best practices: https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 - AWS Architecture Center: https://aws.amazon.com/architecture/
+- Labs: https://aws.amazon.com/training/self-paced-labs/?sc_channel=em&sc_campaign=global_F90D_DF_F16D_training_cert_2017.global_F90D_DF_training_cert_2017&sc_publisher=aws&sc_medium=em_28133&sc_content=f90d_f90d_ot&sc_country=AU&sc_geo=&sc_category=mult&sc_outcome=f90d&trk=em_28133&mkt_tok=eyJpIjoiTmpCaU1tTmtZVEptTm1NeCIsInQiOiJGMHIzc0NiYW1zSlVpTmpNblJqNzZLWnE2dHNKZU44RnZnaHhZZWNcL3dwaUFKZEZlXC9KMUFrN3VibzJDRllrMExkdU10T0hwYWErUmg2RTA4N3dUeXBEYzJvaXpsNjlCbWFHOFo2MlllVjBtYmhtVlpQNzBHdWhySE9VQ1U0d2lQIn0%3D
 - Recomended training courses by Amazon:
   - AWS Technical Essentials: 
     - Home: https://aws.amazon.com/training/course-descriptions/essentials/
