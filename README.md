@@ -7,8 +7,9 @@ Basics
 Course: AWS Certified Solutions Architect - Associate
 - Home page: https://aws.amazon.com/certification/certified-solutions-architect-associate/
 - Exam blueprint: https://d0.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_certified_solutions_architect_associate_blueprint.pdf
-- Exam type: Multiple choice and multiple answer questions
+- Exam type: 55 Multiple choice and multiple answer questions
 - Duration: 80 minutes to complete the exam
+- Passing score: 65%
 - Fees:
   - Practice Exam Registration fee is USD 20
   - Exam Registration fee is USD 150
