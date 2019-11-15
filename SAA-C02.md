@@ -8,3 +8,6 @@ AWS FAQ resources
   
 AWS Well-Architcted framework
   - https://aws.amazon.com/architecture/well-architected/
+  
+Workloads Tool
+  - https://docs.aws.amazon.com/wellarchitected/latest/userguide/getting-started.html
