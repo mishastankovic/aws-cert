@@ -5,3 +5,6 @@ AWS FAQ resources
   - https://aws.amazon.com/route53/faqs/
   - https://aws.amazon.com/rds/faqs/
   - https://aws.amazon.com/sqs/faqs/
+  
+AWS Well-Architcted framework
+  - https://aws.amazon.com/architecture/well-architected/
