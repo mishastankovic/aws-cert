@@ -21,3 +21,9 @@ AWS free digital training
 - Introduction to API Gateway - https://www.aws.training/Details/Video?id=16452
 
 - Introduction to API Gateway - https://amazon.qwiklabs.com/focuses/269?parent=catalog
+
+Containerised microservices on AWS
+- Containers on AWS - https://aws.amazon.com/containers/getting-started/
+- Break the monolith into microservices - https://aws.amazon.com/getting-started/projects/break-monolith-app-microservices-ecs-docker-ec2/
+- Implementing microservices on AWS - https://docs.aws.amazon.com/whitepapers/latest/microservices-on-aws/introduction.html
+- https://aws.amazon.com/blogs/apn/migrating-applications-from-monolithic-to-microservice-on-aws/
